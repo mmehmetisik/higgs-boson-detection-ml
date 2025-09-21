@@ -11,6 +11,11 @@ The challenge involves classifying particle collision events from CERN's Large H
 Each event contains 28 physics-based features representing particle trajectories and decay products. The evaluation metric is ROC-AUC.
 
 ## 📊 Repository Structure
+higgs-boson-detection-ml/
+├── notebooks/
+│   ├── 01_higgs_boson_eda.ipynb
+│   └── 02_higgs_boson_model.ipynb
+└── README.md
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
@@ -65,8 +70,8 @@ The solution achieves consistent performance with physics-informed feature engin
 
 ## 🔗 Links
 - [Kaggle Competition](https://www.kaggle.com/competitions/higgs-boson-detection-2025)
-- [EDA Notebook on Kaggle](#)
-- [Model Notebook on Kaggle](#)
+- [EDA Notebook on Kaggle](https://www.kaggle.com/code/mehmetisik/higgs-boson-detection-eda-2025)
+- [Model Notebook on Kaggle](https://www.kaggle.com/code/mehmetisik/higgs-boson-2025-9-layer-feature-eng-catboost)
 
 ## 📝 License
 MIT
