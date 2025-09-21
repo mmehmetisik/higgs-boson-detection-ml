@@ -11,6 +11,7 @@ The challenge involves classifying particle collision events from CERN's Large H
 Each event contains 28 physics-based features representing particle trajectories and decay products. The evaluation metric is ROC-AUC.
 
 ## 📊 Repository Structure
+
 higgs-boson-detection-ml/
 ├── notebooks/
 │   ├── 01_higgs_boson_eda.ipynb
